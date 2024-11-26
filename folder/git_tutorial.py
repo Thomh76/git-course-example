@@ -1,6 +1,8 @@
+'''Learing git'''
 def add_number(a, b, c):
     '''Return the sum of a, b andc.'''
     return sum(a, b, c)
 
 def calc_difference(a, b):
+    '''Return difference between a and b.'''
     return a - b
